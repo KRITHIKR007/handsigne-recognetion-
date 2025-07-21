@@ -1,0 +1,52 @@
+[
+  {
+    "city": "petalborough",
+    "kind": "hotel",
+    "title": "Petalborough Grand Hotel"
+  },
+  {
+    "city": "petalborough",
+    "kind": "hotel",
+    "title": "Lotus Inn Petalborough"
+  },
+  {
+    "city": "petalborough",
+    "kind": "hotel",
+    "title": "Garden View Resort"
+  },
+  {
+    "city": "crystalpoint",
+    "kind": "hotel",
+    "title": "Crystal Palace Hotel"
+  },
+  {
+    "city": "crystalpoint",
+    "kind": "hotel",
+    "title": "Seaside Crystal Resort"
+  },
+  {
+    "city": "willowbrook",
+    "kind": "hotel",
+    "title": "Willow Creek Lodge"
+  },
+  {
+    "city": "willowbrook",
+    "kind": "hotel",
+    "title": "Brook Side Inn"
+  },
+  {
+    "city": "suncrest",
+    "kind": "hotel",
+    "title": "Suncrest Mountain Resort"
+  },
+  {
+    "city": "suncrest",
+    "kind": "hotel",
+    "title": "Golden Sun Hotel"
+  },
+  {
+    "city": "moonhaven",
+    "kind": "hotel",
+    "title": "Moonlight Bay Hotel"
+  }
+]

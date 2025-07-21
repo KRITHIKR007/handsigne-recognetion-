@@ -1,0 +1,52 @@
+[
+  {
+    "city": "petalborough",
+    "kind": "rental_car",
+    "title": "Petalborough Car Rentals - Economy"
+  },
+  {
+    "city": "petalborough",
+    "kind": "rental_car",
+    "title": "Budget Wheels Petalborough"
+  },
+  {
+    "city": "petalborough",
+    "kind": "rental_car",
+    "title": "Premium Auto Rental"
+  },
+  {
+    "city": "crystalpoint",
+    "kind": "rental_car",
+    "title": "Crystal Point Motors"
+  },
+  {
+    "city": "crystalpoint",
+    "kind": "rental_car",
+    "title": "Coastal Car Hire"
+  },
+  {
+    "city": "willowbrook",
+    "kind": "rental_car",
+    "title": "Willow Auto Rentals"
+  },
+  {
+    "city": "willowbrook",
+    "kind": "rental_car",
+    "title": "Brook Drive Car Hire"
+  },
+  {
+    "city": "suncrest",
+    "kind": "rental_car",
+    "title": "Mountain Drive Rentals"
+  },
+  {
+    "city": "suncrest",
+    "kind": "rental_car",
+    "title": "Suncrest Vehicle Hire"
+  },
+  {
+    "city": "moonhaven",
+    "kind": "rental_car",
+    "title": "Moonhaven Car Services"
+  }
+]
